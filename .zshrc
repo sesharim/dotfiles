@@ -9,7 +9,9 @@ ZSH_THEME="robbyrussell"
 plugins=(git rails ruby fzf zsh-autosuggestions)
 source $ZSH/oh-my-zsh.sh
 
+# aliases
 alias gl='git log --all --decorate --oneline --graph'
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 
 # Add RVM to PATH for scripting.
 export PATH="$PATH:$HOME/.rvm/bin"
