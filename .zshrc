@@ -15,7 +15,6 @@ alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 # Add RVM to PATH for scripting.
 export PATH="$PATH:$HOME/.rvm/bin"
 export NVM_DIR="$HOME/.nvm"
-export PATH=$PATH:/usr/local/go/bin
 export EDITOR='nvim'
 export PATH="/opt/homebrew/bin:$PATH"
 export PATH="/opt/homebrew/sbin:$PATH"
